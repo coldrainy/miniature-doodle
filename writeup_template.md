@@ -149,6 +149,7 @@ For the third image, the model is relatively sure that this is a Speed limit (30
 | .0					| Speed limit (30km/h)								 |
 | .0	    | Speed limit (50km/h)					 			|
 | .0				 | Speed limit (70km/h)      			|
+
 For the fouth image, the model is relatively sure that this is a Turn left ahead sign (probability of 1), and the image does contain a  Turn left ahead. The top five soft max probabilities were
 
 | Probability         	|     Prediction	             | 
